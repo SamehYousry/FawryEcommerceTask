@@ -38,4 +38,4 @@ ecommerce-system/
 │   ├── CheckoutService.java
 │   └── App.java
 └── README.md
-![image alt](https://github.com/SamehYousry/FawryEcommerceTask/blob/9dcd58c53c37d50de567bf67b013794fc8b709da/uml.png)
+![image alt](https://github.com/SamehYousry/FawryEcommerceTask/blob/main/uml.png?raw=true)
