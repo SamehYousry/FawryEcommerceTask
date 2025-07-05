@@ -38,3 +38,5 @@ ecommerce-system/
 │   ├── CheckoutService.java
 │   └── App.java
 └── README.md
+![uml](https://github.com/user-attachments/assets/2a9bbe9c-40c5-4f23-8cb8-5abb1be01e6b)
+
